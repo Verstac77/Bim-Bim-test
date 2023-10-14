@@ -1,3 +1,3 @@
 # Bim-Bim-test
 
-File save
+print("Hello")
