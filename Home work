@@ -1,0 +1,15 @@
+class Alphabet:
+    def __init__(self,lang,letters):
+        self.lang = "Англиский"
+        self.letters = 10
+    
+    def print(self):
+        print(f"Буквы {self.letters}")
+        print(f"Язык {self.lang}")
+    
+    def letters_num(self):
+        self.letters = self.letters
+
+
+
+    
