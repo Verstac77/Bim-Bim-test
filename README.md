@@ -1,3 +1,2 @@
 # Bim-Bim-test
-
-print("Hello")
+class 
